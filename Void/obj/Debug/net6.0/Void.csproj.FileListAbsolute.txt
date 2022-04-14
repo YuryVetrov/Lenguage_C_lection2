@@ -1,0 +1,15 @@
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\bin\Debug\net6.0\Void.exe
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\bin\Debug\net6.0\Void.deps.json
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\bin\Debug\net6.0\Void.runtimeconfig.json
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\bin\Debug\net6.0\Void.dll
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\bin\Debug\net6.0\Void.pdb
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\Void.csproj.AssemblyReference.cache
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\Void.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\Void.AssemblyInfoInputs.cache
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\Void.AssemblyInfo.cs
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\Void.csproj.CoreCompileInputs.cache
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\Void.dll
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\refint\Void.dll
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\Void.pdb
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\Void.genruntimeconfig.cache
+C:\Users\Юра Ветров\Desktop\GeekBrains\Знакомство с языками программирования С\Lection_2_Arrays\Void\obj\Debug\net6.0\ref\Void.dll
